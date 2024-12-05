@@ -1,0 +1,21 @@
+2024-12-04 09:36:55.314 [info] Extension host with pid 3893 started
+2024-12-04 09:36:55.315 [error] Error: EEXIST: file already exists, open '/voc/work/.local/share/code-server/User/workspaceStorage/674db09b/vscode.lock'
+2024-12-04 09:36:55.327 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/674db09b/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-12-04 09:36:55.329 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/674db09b/vscode.lock': The lock does not look stale, elapsed: 133 ms, giving up.
+2024-12-04 09:36:55.346 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/674db09b-1/vscode.lock': Lock acquired.
+2024-12-04 09:36:55.607 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2024-12-04 09:36:55.608 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-12-04 09:36:55.611 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-04 09:36:55.611 [info] ExtensionService#_doActivateExtension synedra.auto-run-command, startup: true, activationEvent: '*'
+2024-12-04 09:36:55.879 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-04 09:36:55.879 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-04 09:36:56.334 [info] Eager extensions activated
+2024-12-04 09:36:56.334 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 09:36:56.337 [info] ExtensionService#_doActivateExtension cweijan.vscode-database-client2, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 09:36:56.337 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 09:36:56.340 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 09:36:56.340 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 09:48:21.917 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-04 09:48:43.569 [info] Extension host terminating: received terminate message from renderer
+2024-12-04 09:48:43.571 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/674db09b-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-12-04 09:48:43.588 [info] Extension host with pid 3893 exiting with code 0

@@ -1,0 +1,27 @@
+2024-12-04 09:00:30.542 [info] Extension host with pid 1958 started
+2024-12-04 09:00:30.560 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/581eb7fa/vscode.lock': Lock acquired.
+2024-12-04 09:00:30.898 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-12-04 09:00:30.899 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-04 09:00:31.608 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2024-12-04 09:00:31.609 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-12-04 09:00:31.609 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-04 09:00:31.609 [info] ExtensionService#_doActivateExtension synedra.auto-run-command, startup: true, activationEvent: '*'
+2024-12-04 09:00:31.881 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-04 09:00:31.882 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-04 09:00:32.183 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 09:00:32.183 [error] undefined
+2024-12-04 09:00:32.491 [info] Eager extensions activated
+2024-12-04 09:00:32.491 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 09:00:32.491 [info] ExtensionService#_doActivateExtension cweijan.vscode-database-client2, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 09:00:32.492 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 09:00:32.492 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 09:00:32.492 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 09:00:33.504 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 09:00:33.504 [error] undefined
+2024-12-04 09:00:33.504 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 09:00:33.504 [error] undefined
+2024-12-04 09:00:38.924 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-12-04 09:01:25.378 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-12-04 09:02:27.111 [info] Extension host terminating: received terminate message from renderer
+2024-12-04 09:02:27.112 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/581eb7fa/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-12-04 09:02:27.132 [info] Extension host with pid 1958 exiting with code 0

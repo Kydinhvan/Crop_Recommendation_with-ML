@@ -1,0 +1,27 @@
+2024-12-04 09:05:53.466 [info] Telemetry level is off
+2024-12-04 09:05:53.466 [info] Experiments are disabled, only manually opted experiments are active.
+2024-12-04 09:05:53.515 [info] Test server listening.
+2024-12-04 09:05:53.529 [info] > conda info --json
+2024-12-04 09:05:53.533 [info] Python interpreter path: /bin/python
+2024-12-04 09:05:53.540 [info] Found: /bin/python --> /bin/python3.10
+2024-12-04 09:05:53.542 [info] Found: /bin/python3 --> /bin/python3.10
+2024-12-04 09:05:53.543 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-12-04 09:05:53.544 [info] Found: /bin/python3.8 --> /bin/python3.8
+2024-12-04 09:05:53.549 [error] readdir() failed for "/voc/startercode/.voc" (Error: EACCES: permission denied, scandir '/voc/startercode/.voc')
+2024-12-04 09:05:53.553 [error] readdir() failed for "/voc/startercode/.voc" (Error: EACCES: permission denied, scandir '/voc/startercode/.voc')
+2024-12-04 09:05:53.562 [info] Found: /usr/bin/python --> /usr/bin/python3.10
+2024-12-04 09:05:53.562 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-12-04 09:05:53.562 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-12-04 09:05:53.565 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2024-12-04 09:05:53.587 [info] > /bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 09:05:53.598 [info] > /bin/python3.8 -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 09:05:53.620 [info] > /usr/bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 09:05:53.631 [info] > /usr/bin/python3.8 -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 09:05:54.064 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:05:54.064 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:05:54.395 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:05:54.395 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:05:54.395 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:05:54.395 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:05:54.398 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:05:54.846 [info] Starting Jedi language server for voc.

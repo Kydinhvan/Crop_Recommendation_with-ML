@@ -1,0 +1,131 @@
+2024-12-04 13:03:11.354 [info] Extension host with pid 105 started
+2024-12-04 13:03:11.355 [error] Error: EEXIST: file already exists, open '/voc/work/.local/share/code-server/User/workspaceStorage/581eb7fa/vscode.lock'
+2024-12-04 13:03:11.361 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/581eb7fa/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-12-04 13:03:11.365 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/581eb7fa/vscode.lock': The lock does not look stale, elapsed: 1010 ms, giving up.
+2024-12-04 13:03:11.387 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/581eb7fa-1/vscode.lock': Lock acquired.
+2024-12-04 13:03:11.636 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2024-12-04 13:03:11.636 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-12-04 13:03:11.637 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-04 13:03:11.637 [info] ExtensionService#_doActivateExtension synedra.auto-run-command, startup: true, activationEvent: '*'
+2024-12-04 13:03:11.919 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-04 13:03:11.919 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-04 13:03:12.403 [info] Eager extensions activated
+2024-12-04 13:03:12.404 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 13:03:12.404 [info] ExtensionService#_doActivateExtension cweijan.vscode-database-client2, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 13:03:12.405 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 13:03:12.405 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 13:03:12.405 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 13:03:12.990 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-04 13:18:02.210 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-12-04 13:18:02.212 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-12-04 13:18:03.075 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-12-04 13:18:43.032 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+2024-12-04 13:22:47.022 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-12-04 13:23:06.037 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:23:06.037 [error] undefined
+2024-12-04 13:23:08.915 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:23:08.915 [error] undefined
+2024-12-04 13:23:19.171 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:23:19.171 [error] undefined
+2024-12-04 13:23:23.582 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:23:23.582 [error] undefined
+2024-12-04 13:23:24.372 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:23:24.372 [error] undefined
+2024-12-04 13:23:25.003 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:23:25.003 [error] undefined
+2024-12-04 13:23:33.236 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:23:33.236 [error] undefined
+2024-12-04 13:23:33.572 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:23:33.572 [error] undefined
+2024-12-04 13:23:47.440 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:23:47.440 [error] undefined
+2024-12-04 13:23:49.722 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:23:49.722 [error] undefined
+2024-12-04 13:23:52.860 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:23:52.860 [error] undefined
+2024-12-04 13:23:58.018 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:23:58.018 [error] undefined
+2024-12-04 13:24:01.001 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:24:01.001 [error] undefined
+2024-12-04 13:24:01.844 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:24:01.844 [error] undefined
+2024-12-04 13:24:27.052 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:24:27.052 [error] undefined
+2024-12-04 13:24:43.338 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:24:43.338 [error] undefined
+2024-12-04 13:24:46.298 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:24:46.298 [error] undefined
+2024-12-04 13:24:47.197 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:24:47.197 [error] undefined
+2024-12-04 13:24:49.733 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:24:49.733 [error] undefined
+2024-12-04 13:24:56.776 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:24:56.776 [error] undefined
+2024-12-04 13:25:09.115 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:25:09.115 [error] undefined
+2024-12-04 13:25:12.409 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:25:12.409 [error] undefined
+2024-12-04 13:25:15.721 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:25:15.721 [error] undefined
+2024-12-04 13:25:16.202 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:25:16.202 [error] undefined
+2024-12-04 13:25:19.276 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:25:19.277 [error] undefined
+2024-12-04 13:25:24.975 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:25:24.975 [error] undefined
+2024-12-04 13:25:27.403 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:25:27.403 [error] undefined
+2024-12-04 13:25:27.892 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:25:27.893 [error] undefined
+2024-12-04 13:25:28.538 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:25:28.538 [error] undefined
+2024-12-04 13:26:31.067 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:26:31.068 [error] undefined
+2024-12-04 13:26:34.474 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:26:34.474 [error] undefined
+2024-12-04 13:26:48.538 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:26:48.538 [error] undefined
+2024-12-04 13:26:49.197 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:26:49.197 [error] undefined
+2024-12-04 13:26:49.713 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:26:49.713 [error] undefined
+2024-12-04 13:26:49.954 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:26:49.954 [error] undefined
+2024-12-04 13:26:50.195 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:26:50.195 [error] undefined
+2024-12-04 13:27:01.554 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:27:01.554 [error] undefined
+2024-12-04 13:27:10.112 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:27:10.112 [error] undefined
+2024-12-04 13:27:21.773 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:27:21.773 [error] undefined
+2024-12-04 13:27:28.742 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:27:28.742 [error] undefined
+2024-12-04 13:27:38.189 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:27:38.189 [error] undefined
+2024-12-04 13:27:53.639 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:27:53.639 [error] undefined
+2024-12-04 13:29:54.355 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:29:54.356 [error] undefined
+2024-12-04 13:29:57.450 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:29:57.450 [error] undefined
+2024-12-04 13:30:58.134 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:30:58.136 [error] undefined
+2024-12-04 13:30:59.035 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:30:59.035 [error] undefined
+2024-12-04 13:38:33.463 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-12-04 13:53:45.438 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:53:45.439 [error] undefined
+2024-12-04 13:53:53.740 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:53:53.740 [error] undefined
+2024-12-04 13:53:54.674 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:53:54.674 [error] undefined
+2024-12-04 13:53:57.424 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:53:57.424 [error] undefined
+2024-12-04 13:54:02.223 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:54:02.223 [error] undefined
+2024-12-04 13:54:09.158 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 13:54:09.158 [error] undefined
+2024-12-04 13:57:13.941 [info] Extension host terminating: received terminate message from renderer
+2024-12-04 13:57:13.942 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/581eb7fa-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-12-04 13:57:13.975 [info] Extension host with pid 105 exiting with code 0

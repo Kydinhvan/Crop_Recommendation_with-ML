@@ -1,0 +1,24 @@
+2024-12-04 07:29:29.256 [info] Extension host with pid 92 started
+2024-12-04 07:29:29.256 [error] Error: EEXIST: file already exists, open '/voc/work/.local/share/code-server/User/workspaceStorage/674db09b/vscode.lock'
+2024-12-04 07:29:29.262 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/674db09b/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-12-04 07:29:29.264 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/674db09b/vscode.lock': The lock does not look stale, elapsed: 23770 ms, giving up.
+2024-12-04 07:29:29.292 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/674db09b-1/vscode.lock': Lock acquired.
+2024-12-04 07:29:29.541 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-04 07:29:29.806 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2024-12-04 07:29:29.806 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-12-04 07:29:29.811 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-04 07:29:29.811 [info] ExtensionService#_doActivateExtension synedra.auto-run-command, startup: true, activationEvent: '*'
+2024-12-04 07:29:30.312 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-04 07:29:30.312 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-04 07:29:30.859 [info] Eager extensions activated
+2024-12-04 07:29:30.860 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 07:29:30.864 [info] ExtensionService#_doActivateExtension cweijan.vscode-database-client2, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 07:29:30.865 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 07:29:30.869 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 07:29:30.874 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 07:31:19.210 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-12-04 07:31:19.212 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-12-04 07:31:20.082 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-12-04 07:32:08.083 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-12-04 07:34:14.082 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+2024-12-04 07:34:32.178 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'

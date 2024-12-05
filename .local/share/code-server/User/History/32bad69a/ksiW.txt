@@ -1,0 +1,6 @@
+You can clone the mini project files here:
+https://github.com/Data-Driven-World/d2w_mini_projects.git
+
+You can make use of the Mini Project folder structure as a template to start with (mp_template folder).
+
+Write down a README file with clear instruction on how to run your web app.

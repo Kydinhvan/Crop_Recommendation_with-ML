@@ -1,0 +1,6 @@
+Yield prediction with climate data 
+How to run. 
+1. Go to work folder --> cd work. 
+2. Activate virtualenv --> source env/bin/activate. 
+3. Run flask --> flask run --reload. 
+Have fun & enjoy!

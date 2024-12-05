@@ -1,0 +1,15 @@
+code-server (1.80.2, vocproxy-1-58.us-west-2.vocareum.com, server-distro)
+Jupyter Extension Version: 2023.3.100.
+Python Extension Version: 2023.12.0.
+Workspace folder /voc
+info 07:31:19.820: ZMQ loaded via fallback mechanism.
+info 07:31:20.084: LSP Notebooks experiment is enabled
+info 07:31:20.114: Process Execution: > jupyter notebook --version
+> jupyter notebook --version
+info 07:31:20.120: Process Execution: > jupyter lab --version
+> jupyter lab --version
+warn 07:31:21.187: Failed to get activated env vars for /bin/python in 600ms
+info 07:31:21.200: Process Execution: > /bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+> /bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+info 07:31:21.227: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
