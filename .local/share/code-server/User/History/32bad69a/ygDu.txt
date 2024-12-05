@@ -1,0 +1,3 @@
+Ultrastreamlined singlepage calculator. 
+How to run. 
+1. cd wor

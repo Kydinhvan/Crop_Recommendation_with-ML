@@ -1,0 +1,327 @@
+2024-12-04 09:11:44.641 [info] Telemetry level is off
+2024-12-04 09:11:44.641 [info] Experiments are disabled, only manually opted experiments are active.
+2024-12-04 09:11:44.641 [info] Test server listening.
+2024-12-04 09:11:44.641 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.641 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.641 [info] > conda info --json
+2024-12-04 09:11:44.653 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.654 [info] Found: /bin/python --> /bin/python3.10
+2024-12-04 09:11:44.667 [info] Found: /bin/python3 --> /bin/python3.10
+2024-12-04 09:11:44.675 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-12-04 09:11:44.677 [info] Found: /bin/python3.8 --> /bin/python3.8
+2024-12-04 09:11:44.683 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.683 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.688 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.691 [error] readdir() failed for "/voc/startercode/.voc" (Error: EACCES: permission denied, scandir '/voc/startercode/.voc')
+2024-12-04 09:11:44.710 [info] > ./work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 09:11:44.714 [info] Found: /usr/bin/python --> /usr/bin/python3.10
+2024-12-04 09:11:44.716 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-12-04 09:11:44.721 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-12-04 09:11:44.721 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2024-12-04 09:11:44.727 [error] [Error: Command failed: /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python: not found
+
+	at ChildProcess.exithandler (node:child_process:402:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1100:16)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:304:5)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py'
+}
+2024-12-04 09:11:44.750 [info] > /bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 09:11:44.761 [info] > /bin/python3.8 -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 09:11:44.781 [info] > /usr/bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 09:11:44.790 [info] > /usr/bin/python3.8 -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 09:11:44.832 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.833 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.836 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.837 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.842 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.842 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.843 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.843 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.847 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.847 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.848 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.848 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.852 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.852 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.853 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.858 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.858 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.858 [warning] Failed to check if /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python'
+}
+2024-12-04 09:11:44.865 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.865 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.866 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.873 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.873 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.873 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.873 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.873 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.873 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.878 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.878 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.878 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.878 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.878 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.878 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.878 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.878 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:44.878 [warning] Identifier for virt-virtualenv failed to identify /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python [Error: ENOENT: no such file or directory, scandir '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin'
+}
+2024-12-04 09:11:45.142 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:11:45.142 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:11:45.370 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:11:45.370 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:11:45.370 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:11:45.370 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:11:45.370 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:11:45.370 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:11:45.822 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:11:45.822 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 09:11:45.873 [info] Starting Jedi language server for voc.
+2024-12-04 09:11:46.739 [info] > ./work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 09:11:46.744 [error] [Error: Command failed: /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python: not found
+
+	at ChildProcess.exithandler (node:child_process:402:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1100:16)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:304:5)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: '/voc/work/.local/share/virtualenvs/mp_calc-K8ouOV8T/bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py'
+}
+2024-12-04 09:11:55.703 [info] Python interpreter path: /bin/python
+2024-12-04 11:26:24.989 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 11:26:25.456 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/-46e0cdc0/QaSt.py
+2024-12-04 11:26:27.633 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 11:26:28.234 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/-46e0cdc0/QaSt.py
+2024-12-04 11:26:30.038 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 11:26:30.488 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/-46e0cdc0/QaSt.py
+2024-12-04 11:26:32.393 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 11:26:32.881 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/-46e0cdc0/QaSt.py
+2024-12-04 11:28:30.885 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 11:28:31.318 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/-46e0cdc0/kGlJ.py
+2024-12-04 11:28:57.542 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 11:28:58.044 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/-46e0cdc0/Fjn5.py
+2024-12-04 11:28:58.670 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 11:30:09.674 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 11:30:10.310 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/-46e0cdc0/zeKV.py
+2024-12-04 11:32:06.575 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 11:32:07.078 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/-46e0cdc0/2vEV.py
+2024-12-04 11:38:56.491 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 11:38:57.099 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/-46e0cdc0/BD2z.py
+2024-12-04 11:38:58.789 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py

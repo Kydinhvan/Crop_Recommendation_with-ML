@@ -1,0 +1,4 @@
+2024-12-04 19:03:26.430 [info] Expanding terminal instance, old id 1 -> new id undefined
+2024-12-04 19:03:31.786 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2024-12-04 19:03:31.787 [info] Persistent process reconnection "1"
+2024-12-04 19:03:32.036 [info] Persistent process "1": Replaying 888 chars and 1 size events

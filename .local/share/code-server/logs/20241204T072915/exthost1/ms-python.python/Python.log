@@ -1,0 +1,185 @@
+2024-12-04 07:31:20.462 [info] Telemetry level is off
+2024-12-04 07:31:20.462 [info] Experiments are disabled, only manually opted experiments are active.
+2024-12-04 07:31:20.462 [info] Test server listening.
+2024-12-04 07:31:20.462 [info] > conda info --json
+2024-12-04 07:31:20.462 [info] Found: /bin/python --> /bin/python3.10
+2024-12-04 07:31:20.462 [info] Found: /bin/python3 --> /bin/python3.10
+2024-12-04 07:31:20.462 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-12-04 07:31:20.462 [info] Found: /bin/python3.8 --> /bin/python3.8
+2024-12-04 07:31:20.462 [error] readdir() failed for "/voc/startercode/.voc" (Error: EACCES: permission denied, scandir '/voc/startercode/.voc')
+2024-12-04 07:31:20.466 [info] Found: /usr/bin/python --> /usr/bin/python3.10
+2024-12-04 07:31:20.466 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-12-04 07:31:20.466 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-12-04 07:31:20.466 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2024-12-04 07:31:20.490 [info] > /bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 07:31:20.501 [info] > /bin/python3.8 -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 07:31:20.522 [info] > /usr/bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 07:31:20.533 [info] > /usr/bin/python3.8 -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 07:31:20.589 [info] Python interpreter path: /bin/python
+2024-12-04 07:31:20.956 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:31:21.201 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:31:21.201 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:31:21.201 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:31:21.201 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:31:21.201 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:31:21.201 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:31:21.201 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-12-04 07:31:21.201 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-12-04 07:31:21.201 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-12-04 07:31:21.343 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:31:21.343 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:31:21.862 [info] Starting Jedi language server for voc.
+2024-12-04 07:31:24.171 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/flask_sqlalchemy/track_modifications.py
+2024-12-04 07:31:32.518 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/greenlet/__init__.py
+2024-12-04 07:31:35.774 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/greenlet/platform/__init__.py
+2024-12-04 07:31:40.586 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/greenlet/tests/test_tracing.py
+2024-12-04 07:31:41.567 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/greenlet/tests/test_weakref.py
+2024-12-04 07:31:51.615 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/itsdangerous/url_safe.py
+2024-12-04 07:31:58.923 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/jinja2/bccache.py
+2024-12-04 07:31:59.844 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/jinja2/visitor.py
+2024-12-04 07:32:09.006 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/markupsafe/_native.py
+2024-12-04 07:32:16.578 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/__pip-runner__.py
+2024-12-04 07:32:18.966 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/cache.py
+2024-12-04 07:32:21.530 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/cli/status_codes.py
+2024-12-04 07:32:26.493 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/commands/wheel.py
+2024-12-04 07:32:31.004 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/distributions/wheel.py
+2024-12-04 07:32:35.565 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/index/sources.py
+2024-12-04 07:32:40.376 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/locations/base.py
+2024-12-04 07:32:44.663 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/metadata/pkg_resources.py
+2024-12-04 07:32:47.743 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/metadata/importlib/__init__.py
+2024-12-04 07:32:55.396 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/models/wheel.py
+2024-12-04 07:33:00.661 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/network/xmlrpc.py
+2024-12-04 07:33:05.334 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/operations/prepare.py
+2024-12-04 07:33:07.496 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/operations/build/wheel_legacy.py
+2024-12-04 07:33:12.223 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/operations/install/wheel.py
+2024-12-04 07:33:13.688 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/werkzeug/wsgi.py
+2024-12-04 07:33:14.202 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/werkzeug/datastructures/headers.py
+2024-12-04 07:33:14.711 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/werkzeug/sansio/response.py
+2024-12-04 07:33:16.390 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/typing_extensions.py
+2024-12-04 07:33:17.234 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/greenlet/tests/test_version.py
+2024-12-04 07:33:17.739 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/greenlet/tests/test_weakref.py
+2024-12-04 07:33:18.246 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/greenlet/platform/__init__.py
+2024-12-04 07:33:19.315 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/req/req_uninstall.py
+2024-12-04 07:33:19.815 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/sqlalchemy/sql/traversals.py
+2024-12-04 07:33:20.321 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/sqlalchemy/sql/visitors.py
+2024-12-04 07:33:20.846 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/sqlalchemy/testing/warnings.py
+2024-12-04 07:33:21.332 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/sqlalchemy/testing/suite/test_update_delete.py
+2024-12-04 07:33:21.954 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/sqlalchemy/dialects/postgresql/types.py
+2024-12-04 07:33:22.390 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/sqlalchemy/dialects/sqlite/pysqlite.py
+2024-12-04 07:33:23.049 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/sqlalchemy/orm/writeonly.py
+2024-12-04 07:33:23.549 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/sqlalchemy/orm/exc.py
+2024-12-04 07:33:24.067 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/sqlalchemy/util/_py_collections.py
+2024-12-04 07:33:24.568 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/sqlalchemy/pool/impl.py
+2024-12-04 07:33:26.635 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/resolution/legacy/resolver.py
+2024-12-04 07:33:28.741 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/resolution/resolvelib/resolver.py
+2024-12-04 07:33:32.609 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/flask/wrappers.py
+2024-12-04 07:33:33.641 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/flask_sqlalchemy/track_modifications.py
+2024-12-04 07:33:35.920 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/utils/appdirs.py
+2024-12-04 07:33:36.874 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/utils/wheel.py
+2024-12-04 07:33:42.485 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_internal/vcs/versioncontrol.py
+2024-12-04 07:33:49.473 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/typing_extensions.py
+2024-12-04 07:33:51.834 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/cachecontrol/controller.py
+2024-12-04 07:33:54.001 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py
+2024-12-04 07:34:00.925 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/certifi/core.py
+2024-12-04 07:34:05.614 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/distlib/wheel.py
+2024-12-04 07:34:10.513 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/distro/distro.py
+2024-12-04 07:34:12.880 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/idna/codec.py
+2024-12-04 07:34:18.351 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/msgpack/fallback.py
+2024-12-04 07:34:23.812 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/packaging/version.py
+2024-12-04 07:34:28.665 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/pkg_resources/__init__.py
+2024-12-04 07:34:33.199 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/platformdirs/windows.py
+2024-12-04 07:34:37.739 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/pygments/util.py
+2024-12-04 07:34:39.765 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/pygments/filters/__init__.py
+2024-12-04 07:34:44.277 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/pygments/formatters/bbcode.py
+2024-12-04 07:34:46.593 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/pygments/lexers/python.py
+2024-12-04 07:34:51.321 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/pygments/styles/_mapping.py
+2024-12-04 07:34:57.843 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/pyproject_hooks/_impl.py
+2024-12-04 07:35:00.072 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py
+2024-12-04 07:35:10.662 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/requests/utils.py
+2024-12-04 07:35:16.513 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/resolvelib/structs.py
+2024-12-04 07:35:18.877 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/resolvelib/compat/collections_abc.py
+2024-12-04 07:35:26.755 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/rich/control.py
+2024-12-04 07:35:27.880 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/rich/repr.py
+2024-12-04 07:35:30.133 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/rich/_wrap.py
+2024-12-04 07:35:40.435 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/tomli/_types.py
+2024-12-04 07:35:44.543 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/truststore/_api.py
+2024-12-04 07:35:49.620 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/urllib3/response.py
+2024-12-04 07:35:52.678 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py
+2024-12-04 07:35:54.872 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py
+2024-12-04 07:36:00.698 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/urllib3/packages/six.py
+2024-12-04 07:36:04.571 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/urllib3/packages/backports/weakref_finalize.py
+2024-12-04 07:36:09.575 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pip/_vendor/urllib3/util/wait.py
+2024-12-04 07:36:23.723 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pkg_resources/__init__.py
+2024-12-04 07:36:26.221 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pkg_resources/tests/test_find_distributions.py
+2024-12-04 07:36:29.976 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/pkg_resources/tests/data/my-test-package-source/setup.py
+2024-12-04 07:36:44.506 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/modified.py
+2024-12-04 07:36:45.529 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/windows_support.py
+2024-12-04 07:36:47.389 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/__init__.py
+2024-12-04 07:36:49.823 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/command/editable_wheel.py
+2024-12-04 07:36:50.813 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/command/test.py
+2024-12-04 07:36:53.157 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/compat/py310.py
+2024-12-04 07:36:55.679 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/config/setupcfg.py
+2024-12-04 07:36:59.551 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/config/_validate_pyproject/fastjsonschema_validations.py
+2024-12-04 07:37:02.343 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/tests/test_develop.py
+2024-12-04 07:37:03.490 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/tests/test_unicode_utils.py
+2024-12-04 07:37:04.440 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/tests/textwrap.py
+2024-12-04 07:37:06.682 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/tests/compat/py39.py
+2024-12-04 07:37:09.222 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/tests/config/test_setupcfg.py
+2024-12-04 07:37:11.450 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/tests/config/downloads/preload.py
+2024-12-04 07:37:20.942 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/tests/integration/test_pip_install_sdist.py
+2024-12-04 07:37:23.542 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_distutils/spawn.py
+2024-12-04 07:37:23.794 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_distutils/util.py
+2024-12-04 07:37:24.984 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_distutils/zosccompiler.py
+2024-12-04 07:37:28.476 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_distutils/command/sdist.py
+2024-12-04 07:37:30.885 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_distutils/compat/py38.py
+2024-12-04 07:37:33.664 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_distutils/tests/test_extension.py
+2024-12-04 07:37:34.817 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_distutils/tests/unix_compat.py
+2024-12-04 07:37:35.653 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_distutils/tests/__init__.py
+2024-12-04 07:37:37.871 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_distutils/tests/compat/py38.py
+2024-12-04 07:37:40.435 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/typing_extensions.py
+2024-12-04 07:37:42.855 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/autocommand/autoasync.py
+2024-12-04 07:37:48.413 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/backports/__init__.py
+2024-12-04 07:37:50.714 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/backports/tarfile/__main__.py
+2024-12-04 07:37:54.544 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/backports/tarfile/compat/__init__.py
+2024-12-04 07:37:59.546 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/importlib_metadata/diagnose.py
+2024-12-04 07:38:02.665 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/importlib_metadata/compat/py39.py
+2024-12-04 07:38:08.238 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/importlib_resources/simple.py
+2024-12-04 07:38:10.628 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/importlib_resources/compat/py39.py
+2024-12-04 07:38:13.006 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/importlib_resources/future/adapters.py
+2024-12-04 07:38:15.692 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/importlib_resources/tests/zip.py
+2024-12-04 07:38:18.145 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/importlib_resources/tests/compat/py312.py
+2024-12-04 07:38:18.459 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/importlib_resources/tests/compat/py39.py
+2024-12-04 07:38:20.632 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/importlib_resources/tests/data01/__init__.py
+2024-12-04 07:38:22.957 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/importlib_resources/tests/data01/subdirectory/__init__.py
+2024-12-04 07:38:25.479 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/importlib_resources/tests/data02/__init__.py
+2024-12-04 07:38:27.979 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/importlib_resources/tests/data02/one/__init__.py
+2024-12-04 07:38:34.387 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/importlib_resources/tests/data02/two/__init__.py
+2024-12-04 07:38:44.966 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/inflect/__init__.py
+2024-12-04 07:38:47.365 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/inflect/compat/py38.py
+2024-12-04 07:38:52.128 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/jaraco/context.py
+2024-12-04 07:38:54.423 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/jaraco/collections/__init__.py
+2024-12-04 07:38:56.981 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/jaraco/functools/__init__.py
+2024-12-04 07:38:59.676 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/jaraco/text/to-qwerty.py
+2024-12-04 07:39:12.417 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/more_itertools/recipes.py
+2024-12-04 07:39:18.153 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/packaging/version.py
+2024-12-04 07:39:23.440 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/platformdirs/windows.py
+2024-12-04 07:39:30.739 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/tomli/_types.py
+2024-12-04 07:39:36.086 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/typeguard/_utils.py
+2024-12-04 07:39:43.436 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/wheel/wheelfile.py
+2024-12-04 07:39:45.774 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/wheel/cli/tags.py
+2024-12-04 07:39:48.467 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/wheel/vendored/__init__.py
+2024-12-04 07:39:50.886 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/wheel/vendored/packaging/specifiers.py
+2024-12-04 07:39:55.498 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/zipp/glob.py
+2024-12-04 07:39:58.659 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/setuptools/_vendor/zipp/compat/py310.py
+2024-12-04 07:40:07.196 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/sqlalchemy/exc.py
+2024-12-04 07:40:09.554 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/sqlalchemy/connectors/pyodbc.py
+2024-12-04 07:40:15.246 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/sqlalchemy/cyextension/__init__.py
+2024-12-04 07:40:20.648 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/sqlalchemy/dialects/_typing.py
+2024-12-04 07:40:23.230 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/sqlalchemy/dialects/mssql/pyodbc.py
+2024-12-04 07:40:28.250 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/sqlalchemy/dialects/mysql/asyncmy.py
+2024-12-04 07:40:33.707 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/sqlalchemy/dialects/oracle/types.py
+2024-12-04 07:40:38.591 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/sqlalchemy/dialects/postgresql/types.py
+2024-12-04 07:40:43.503 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/sqlalchemy/dialects/sqlite/pysqlite.py
+2024-12-04 07:40:50.938 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/sqlalchemy/engine/util.py
+2024-12-04 07:40:55.898 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/sqlalchemy/event/api.py
+2024-12-04 07:41:00.683 [info] Discover tests for workspace name: voc - uri: /voc/work/DDW_2D/env/Lib/site-packages/sqlalchemy/ext/mutable.py

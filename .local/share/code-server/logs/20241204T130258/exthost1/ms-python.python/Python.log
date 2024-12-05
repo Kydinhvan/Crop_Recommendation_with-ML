@@ -1,0 +1,76 @@
+2024-12-04 13:18:03.445 [info] Telemetry level is off
+2024-12-04 13:18:03.445 [info] Experiments are disabled, only manually opted experiments are active.
+2024-12-04 13:18:03.445 [info] Test server listening.
+2024-12-04 13:18:03.445 [info] > conda info --json
+2024-12-04 13:18:03.445 [info] Found: /bin/python --> /bin/python3.10
+2024-12-04 13:18:03.446 [info] Found: /bin/python3 --> /bin/python3.10
+2024-12-04 13:18:03.448 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-12-04 13:18:03.451 [info] Found: /bin/python3.8 --> /bin/python3.8
+2024-12-04 13:18:03.453 [error] readdir() failed for "/voc/startercode/.voc" (Error: EACCES: permission denied, scandir '/voc/startercode/.voc')
+2024-12-04 13:18:03.465 [info] Found: /usr/bin/python --> /usr/bin/python3.10
+2024-12-04 13:18:03.465 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-12-04 13:18:03.469 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-12-04 13:18:03.469 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2024-12-04 13:18:03.498 [info] > /bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 13:18:03.514 [info] > /bin/python3.8 -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 13:18:03.537 [info] > /usr/bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 13:18:03.595 [info] > /usr/bin/python3.8 -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 13:18:03.651 [info] Python interpreter path: /bin/python
+2024-12-04 13:18:03.912 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 13:18:04.138 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 13:18:04.138 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 13:18:04.138 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 13:18:04.138 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 13:18:04.138 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 13:18:04.138 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-12-04 13:18:04.138 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-12-04 13:18:04.138 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-12-04 13:18:04.328 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 13:18:04.328 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 13:18:04.854 [info] Starting Jedi language server for voc.
+2024-12-04 13:20:46.380 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:20:46.807 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/7Mt7.py
+2024-12-04 13:35:16.563 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:35:17.047 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/T16P.py
+2024-12-04 13:35:20.666 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:35:21.136 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/T16P.py
+2024-12-04 13:35:35.264 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:35:35.812 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/6haV.py
+2024-12-04 13:38:11.180 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:38:11.656 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/BqIc.py
+2024-12-04 13:38:12.594 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:38:15.423 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:38:15.897 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/BqIc.py
+2024-12-04 13:38:27.126 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:39:17.600 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:39:18.126 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/MppC.py
+2024-12-04 13:39:18.806 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:39:37.130 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:39:37.597 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/4Azm.py
+2024-12-04 13:39:44.059 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:39:44.519 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/4Azm.py
+2024-12-04 13:40:22.609 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:42:01.060 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:42:01.508 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/HgSp.py
+2024-12-04 13:42:03.772 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:42:04.228 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/HgSp.py
+2024-12-04 13:42:05.144 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:42:08.347 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:42:08.866 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/HgSp.py
+2024-12-04 13:42:14.642 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:42:47.151 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:42:47.646 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/YKzc.py
+2024-12-04 13:42:48.130 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:44:05.791 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:44:06.432 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/Oc1k.py
+2024-12-04 13:44:15.231 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:44:15.754 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/Oc1k.py
+2024-12-04 13:46:17.600 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:46:18.096 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/1OjM.py
+2024-12-04 13:47:30.032 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:47:30.499 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/7T6J.py
+2024-12-04 13:48:52.685 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:48:53.222 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/SPev.py
+2024-12-04 13:48:54.080 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 13:48:54.487 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/SPev.py
+2024-12-04 13:48:55.473 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py

@@ -1,0 +1,18 @@
+2024-12-04 13:03:10.349 [info] Extension host with pid 111 started
+2024-12-04 13:03:10.366 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/581eb7fa/vscode.lock': Lock acquired.
+2024-12-04 13:03:10.638 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2024-12-04 13:03:10.984 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2024-12-04 13:03:10.984 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-12-04 13:03:10.984 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-04 13:03:10.984 [info] ExtensionService#_doActivateExtension synedra.auto-run-command, startup: true, activationEvent: '*'
+2024-12-04 13:03:11.497 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-04 13:03:11.497 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-04 13:03:12.071 [info] Eager extensions activated
+2024-12-04 13:03:12.071 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 13:03:12.071 [info] ExtensionService#_doActivateExtension cweijan.vscode-database-client2, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 13:03:12.071 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 13:03:12.072 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 13:03:12.072 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 17:01:42.720 [info] Extension host terminating: received terminate message from renderer
+2024-12-04 17:01:42.721 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/581eb7fa/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-12-04 17:01:42.735 [info] Extension host with pid 111 exiting with code 0

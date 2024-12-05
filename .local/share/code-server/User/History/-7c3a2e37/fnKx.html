@@ -1,0 +1,59 @@
+<!-- Base template so I don't need to scroll around as much & shorten my index. Proof of concept that we can use basic jinja. -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- Couldn't figure out why jinja wasn't working with my stylesheet. -->
+    <style>
+      body {
+        margin: 0;
+        font-family: 'Trebuchet MS', sans-serif; 
+    }
+    
+    table, th, td {
+        text-align: left;
+        vertical-align: top;
+        padding: 5px;
+        border: 1px solid black;
+        border-collapse: collapse;
+        margin: auto
+    }
+    
+    .questionnaire {
+        width: 50%
+    }
+    
+    
+    h1, h2, h3, h4, p {
+        margin: 0px
+    }
+    
+    h1 {
+        text-align: center;
+        margin: 5px
+    }
+    
+    p {
+        font-size: 12px
+    }
+    
+    div {
+        margin: auto;
+        margin-top: 20px;
+        padding: 25px;
+        text-align: center
+    }
+    
+    input {
+        margin: 5px 
+    }
+    </style>
+    {% block head %} {% endblock %}
+  </head>
+  <body>
+    {% block body %} {% endblock %}
+  </body>
+</html>

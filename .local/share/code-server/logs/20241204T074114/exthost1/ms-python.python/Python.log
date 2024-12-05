@@ -1,0 +1,146 @@
+2024-12-04 07:42:11.472 [info] Telemetry level is off
+2024-12-04 07:42:11.472 [info] Experiments are disabled, only manually opted experiments are active.
+2024-12-04 07:42:11.472 [info] Test server listening.
+2024-12-04 07:42:11.472 [info] > conda info --json
+2024-12-04 07:42:11.472 [info] Found: /bin/python --> /bin/python3.10
+2024-12-04 07:42:11.472 [info] Found: /bin/python3 --> /bin/python3.10
+2024-12-04 07:42:11.472 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-12-04 07:42:11.472 [info] Found: /bin/python3.8 --> /bin/python3.8
+2024-12-04 07:42:11.472 [error] readdir() failed for "/voc/startercode/.voc" (Error: EACCES: permission denied, scandir '/voc/startercode/.voc')
+2024-12-04 07:42:11.479 [info] Found: /usr/bin/python --> /usr/bin/python3.10
+2024-12-04 07:42:11.479 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-12-04 07:42:11.479 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-12-04 07:42:11.483 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2024-12-04 07:42:11.509 [info] > /bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 07:42:11.522 [info] > /bin/python3.8 -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 07:42:11.542 [info] > /usr/bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 07:42:11.594 [info] > /usr/bin/python3.8 -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2024-12-04 07:42:11.653 [info] Python interpreter path: /bin/python
+2024-12-04 07:42:11.924 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:42:12.144 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:42:12.144 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:42:12.144 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:42:12.144 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:42:12.144 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:42:12.144 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-12-04 07:42:12.144 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-12-04 07:42:12.144 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-12-04 07:42:12.334 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:42:12.334 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-12-04 07:42:12.872 [info] Starting Jedi language server for voc.
+2024-12-04 07:42:43.183 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/distlib/index.py
+2024-12-04 07:42:43.683 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/distlib/index.py
+2024-12-04 07:42:44.349 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/platformdirs/windows.py
+2024-12-04 07:42:44.717 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/filelock/version.py
+2024-12-04 07:42:45.207 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/virtualenv/version.py
+2024-12-04 07:42:45.793 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/virtualenv/create/via_global_ref/venv.py
+2024-12-04 07:42:46.438 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/virtualenv/seed/wheels/util.py
+2024-12-04 07:42:47.009 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/virtualenv/util/zipapp.py
+2024-12-04 07:44:28.893 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/~irtualenv/__main__.py
+2024-12-04 07:44:29.411 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/virtualenv/app_data/via_disk_folder.py
+2024-12-04 07:44:29.922 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/virtualenv/run/plugin/creators.py
+2024-12-04 07:45:26.035 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/virtualenv/version.py
+2024-12-04 07:45:26.484 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/virtualenv/discovery/builtin.py
+2024-12-04 07:45:26.985 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/virtualenv/seed/seeder.py
+2024-12-04 07:45:27.262 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/virtualenv/seed/wheels/util.py
+2024-12-04 07:45:27.775 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/lib/python3.10/site-packages/virtualenv/util/zipapp.py
+2024-12-04 07:48:23.293 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/virtualenv/wheel/3.10/image/1/CopyPipInstall/wheel-0.45.1-py3-none-any/wheel/vendored/__init__.py
+2024-12-04 07:48:23.869 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/wheel/wheelfile.py
+2024-12-04 07:48:24.367 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/wheel/cli/convert.py
+2024-12-04 07:48:25.108 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/virtualenv/wheel/3.10/image/1/CopyPipInstall/setuptools-75.6.0-py3-none-any/setuptools/_distutils/tests/test_cygwinccompiler.py
+2024-12-04 07:48:25.448 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/virtualenv/wheel/3.10/image/1/CopyPipInstall/setuptools-75.6.0-py3-none-any/setuptools/_vendor/typing_extensions.py
+2024-12-04 07:48:25.923 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/virtualenv/wheel/3.10/image/1/CopyPipInstall/setuptools-75.6.0-py3-none-any/setuptools/_vendor/jaraco/text/to-qwerty.py
+2024-12-04 07:48:26.375 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/virtualenv/wheel/3.10/image/1/CopyPipInstall/setuptools-75.6.0-py3-none-any/setuptools/_vendor/tomli/_parser.py
+2024-12-04 07:48:26.883 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/virtualenv/wheel/3.10/image/1/CopyPipInstall/setuptools-75.6.0-py3-none-any/setuptools/_vendor/wheel/wheelfile.py
+2024-12-04 07:48:27.388 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/virtualenv/wheel/3.10/image/1/CopyPipInstall/setuptools-75.6.0-py3-none-any/setuptools/compat/py312.py
+2024-12-04 07:48:27.898 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/virtualenv/wheel/3.10/image/1/CopyPipInstall/setuptools-75.6.0-py3-none-any/setuptools/tests/test_dist.py
+2024-12-04 07:48:28.418 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/virtualenv/wheel/3.10/image/1/CopyPipInstall/setuptools-75.6.0-py3-none-any/setuptools/tests/textwrap.py
+2024-12-04 07:48:28.924 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/virtualenv/wheel/3.10/image/1/CopyPipInstall/setuptools-75.6.0-py3-none-any/setuptools/tests/integration/test_pip_install_sdist.py
+2024-12-04 07:48:29.413 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/pip/__pip-runner__.py
+2024-12-04 07:48:29.954 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/pip/_internal/wheel_builder.py
+2024-12-04 07:48:30.411 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/pip/_internal/cli/progress_bars.py
+2024-12-04 07:48:30.918 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/pip/_internal/resolution/base.py
+2024-12-04 07:48:31.418 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/pip/_internal/vcs/bazaar.py
+2024-12-04 07:48:31.915 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/_path.py
+2024-12-04 07:48:32.426 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/_distutils/versionpredicate.py
+2024-12-04 07:48:32.927 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/_distutils/tests/support.py
+2024-12-04 07:48:33.550 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/_distutils/tests/test_bdist_dumb.py
+2024-12-04 07:48:33.944 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/config/setupcfg.py
+2024-12-04 07:48:34.456 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/config/_validate_pyproject/fastjsonschema_exceptions.py
+2024-12-04 07:48:34.948 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/_vendor/autocommand/errors.py
+2024-12-04 07:48:35.472 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/_vendor/importlib_metadata/_compat.py
+2024-12-04 07:48:35.988 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/_vendor/importlib_metadata/_adapters.py
+2024-12-04 07:48:36.499 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/pip/_vendor/packaging/_musllinux.py
+2024-12-04 07:48:36.985 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/_vendor/typeguard/_checkers.py
+2024-12-04 07:48:37.481 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/_vendor/wheel/vendored/__init__.py
+2024-12-04 07:48:37.973 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/_vendor/tomli/_types.py
+2024-12-04 07:48:38.485 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/pip/_vendor/pygments/modeline.py
+2024-12-04 07:48:39.062 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/_vendor/platformdirs/android.py
+2024-12-04 07:48:39.488 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/tests/test_windows_wrappers.py
+2024-12-04 07:48:39.998 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/tests/textwrap.py
+2024-12-04 07:48:40.502 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/tests/test_develop.py
+2024-12-04 07:48:41.038 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/setuptools/tests/integration/test_pip_install_sdist.py
+2024-12-04 07:48:41.688 [info] Discover tests for workspace name: voc - uri: /voc/work/env/bin/activate_this.py
+2024-12-04 07:49:04.700 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/_virtualenv.py
+2024-12-04 07:49:05.290 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/wheel/wheelfile.py
+2024-12-04 07:49:05.800 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/wheel/vendored/__init__.py
+2024-12-04 07:49:06.251 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/setuptools/windows_support.py
+2024-12-04 07:49:06.754 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/pip/_internal/resolution/legacy/resolver.py
+2024-12-04 07:49:07.254 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/pip/_internal/models/target_python.py
+2024-12-04 07:49:07.765 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/pip/_internal/commands/inspect.py
+2024-12-04 07:49:08.258 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/setuptools/_distutils/tests/unix_compat.py
+2024-12-04 07:49:08.758 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/setuptools/compat/py39.py
+2024-12-04 07:49:09.261 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/setuptools/config/setupcfg.py
+2024-12-04 07:49:09.776 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/setuptools/_vendor/jaraco/text/to-qwerty.py
+2024-12-04 07:49:10.282 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/pip/_vendor/rich/_inspect.py
+2024-12-04 07:49:10.786 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/pip/_vendor/rich/protocol.py
+2024-12-04 07:49:11.289 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/pip/_vendor/rich/traceback.py
+2024-12-04 07:49:11.808 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/setuptools/_vendor/backports/tarfile/__init__.py
+2024-12-04 07:49:12.324 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/pip/_vendor/packaging/_parser.py
+2024-12-04 07:49:12.805 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/pip/_vendor/urllib3/util/timeout.py
+2024-12-04 07:49:13.331 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/setuptools/_vendor/packaging/requirements.py
+2024-12-04 07:49:13.840 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/setuptools/_vendor/platformdirs/windows.py
+2024-12-04 07:49:14.336 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/pip/_vendor/pygments/style.py
+2024-12-04 07:49:15.470 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/setuptools/windows_support.py
+2024-12-04 07:49:17.618 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/pkg_resources/tests/test_integration_zope_interface.py
+2024-12-04 07:49:18.555 [info] Discover tests for workspace name: voc - uri: /voc/work/run/lib/python3.10/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py
+2024-12-04 07:53:15.187 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/typing_extensions.py
+2024-12-04 07:53:15.688 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/itsdangerous/url_safe.py
+2024-12-04 07:53:16.184 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/greenlet/tests/test_version.py
+2024-12-04 07:53:16.697 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/greenlet/tests/test_cpp.py
+2024-12-04 07:53:17.201 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/greenlet/platform/__init__.py
+2024-12-04 07:53:17.796 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/click/parser.py
+2024-12-04 07:53:18.226 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/click/parser.py
+2024-12-04 07:53:18.713 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/werkzeug/urls.py
+2024-12-04 07:53:19.216 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/werkzeug/urls.py
+2024-12-04 07:53:19.770 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/werkzeug/routing/map.py
+2024-12-04 07:53:21.258 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/sqlalchemy/types.py
+2024-12-04 07:53:21.763 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/sqlalchemy/sql/util.py
+2024-12-04 07:53:22.268 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/sqlalchemy/sql/functions.py
+2024-12-04 07:53:22.770 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/sqlalchemy/testing/suite/test_dialect.py
+2024-12-04 07:53:23.283 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/sqlalchemy/dialects/sqlite/pysqlite.py
+2024-12-04 07:53:23.715 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/sqlalchemy/dialects/mssql/pyodbc.py
+2024-12-04 07:53:24.211 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/sqlalchemy/orm/writeonly.py
+2024-12-04 07:53:24.718 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/sqlalchemy/util/typing.py
+2024-12-04 07:53:25.236 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/sqlalchemy/ext/compiler.py
+2024-12-04 07:53:33.156 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/jinja2/meta.py
+2024-12-04 07:53:33.562 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/jinja2/meta.py
+2024-12-04 07:53:34.076 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/flask/config.py
+2024-12-04 07:53:34.655 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/flask/config.py
+2024-12-04 07:53:35.599 [info] Discover tests for workspace name: voc - uri: /voc/work/env/lib/python3.10/site-packages/flask_sqlalchemy/track_modifications.py
+2024-12-04 08:00:24.500 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 08:00:25.165 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/UYim.py
+2024-12-04 08:01:06.618 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 08:01:07.171 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/fCMI.py
+2024-12-04 08:01:07.769 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 08:01:08.199 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/fCMI.py
+2024-12-04 08:01:08.698 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 08:01:09.716 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 08:43:57.908 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 08:43:58.514 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/HBvx.py
+2024-12-04 08:44:00.392 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 08:44:00.999 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/HBvx.py
+2024-12-04 08:44:04.818 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 08:44:05.297 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/HBvx.py
+2024-12-04 08:45:46.618 [info] Discover tests for workspace name: voc - uri: /voc/work/app.py
+2024-12-04 08:45:47.114 [info] Discover tests for workspace name: voc - uri: /voc/work/.local/share/code-server/User/History/103d231f/dAXf.py

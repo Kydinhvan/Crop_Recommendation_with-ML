@@ -1,0 +1,14 @@
+code-server (1.80.2, vocproxy-1-58.us-west-2.vocareum.com, server-distro)
+Jupyter Extension Version: 2023.3.100.
+Python Extension Version: 2023.12.0.
+Workspace folder /voc
+info 09:05:52.899: ZMQ loaded via fallback mechanism.
+info 09:05:53.171: LSP Notebooks experiment is enabled
+warn 09:05:54.106: Failed to get activated env vars for /bin/python in 588ms
+info 09:05:54.117: Process Execution: > /bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+> /bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+info 09:05:54.144: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+info 09:09:59.244: Shutting down notebooks for 38b98eab-8f42-4e15-8475-b17c9f85b5de
+info 09:09:59.245: Disposing HostJupyterExecution 59c99758-becf-4be8-a3ee-6fe22efef21f
+info 09:09:59.245: Disposing HostJupyterExecution 59c99758-becf-4be8-a3ee-6fe22efef21f

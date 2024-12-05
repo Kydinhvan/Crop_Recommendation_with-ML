@@ -1,0 +1,41 @@
+2024-12-04 08:49:40.904 [info] Extension host with pid 94 started
+2024-12-04 08:49:40.931 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/581eb7fa/vscode.lock': Lock acquired.
+2024-12-04 08:49:41.207 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-12-04 08:49:41.207 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-04 08:49:41.857 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2024-12-04 08:49:41.857 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-12-04 08:49:41.857 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-04 08:49:41.858 [info] ExtensionService#_doActivateExtension synedra.auto-run-command, startup: true, activationEvent: '*'
+2024-12-04 08:49:42.152 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-04 08:49:42.152 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-04 08:49:42.723 [info] Eager extensions activated
+2024-12-04 08:49:42.724 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 08:49:42.724 [info] ExtensionService#_doActivateExtension cweijan.vscode-database-client2, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 08:49:42.724 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 08:49:42.724 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 08:49:42.725 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-04 08:51:08.122 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-12-04 08:52:20.241 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+2024-12-04 08:53:25.691 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-12-04 08:53:25.695 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-12-04 08:53:26.574 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-12-04 08:56:18.068 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 08:56:18.070 [error] undefined
+2024-12-04 08:56:18.565 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 08:56:18.565 [error] undefined
+2024-12-04 08:56:21.568 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 08:56:21.568 [error] undefined
+2024-12-04 08:57:58.249 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-12-04 08:58:13.934 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 08:58:13.934 [error] undefined
+2024-12-04 08:59:05.569 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 08:59:05.569 [error] undefined
+2024-12-04 08:59:05.856 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 08:59:05.856 [error] undefined
+2024-12-04 08:59:08.725 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 08:59:08.725 [error] undefined
+2024-12-04 08:59:09.640 [error] [ecmel.vscode-html-css] provider FAILED
+2024-12-04 08:59:09.640 [error] undefined
+2024-12-04 09:00:15.426 [info] Extension host terminating: received terminate message from renderer
+2024-12-04 09:00:15.427 [info] Lock '/voc/work/.local/share/code-server/User/workspaceStorage/581eb7fa/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-12-04 09:00:15.461 [info] Extension host with pid 94 exiting with code 0

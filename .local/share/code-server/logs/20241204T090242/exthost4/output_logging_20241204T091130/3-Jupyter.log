@@ -1,0 +1,6 @@
+code-server (1.80.2, vocproxy-1-58.us-west-2.vocareum.com, server-distro)
+Jupyter Extension Version: 2023.3.100.
+Python Extension Version: 2023.12.0.
+Workspace folder /voc
+info 09:11:44.031: ZMQ loaded via fallback mechanism.
+info 09:11:44.272: LSP Notebooks experiment is enabled

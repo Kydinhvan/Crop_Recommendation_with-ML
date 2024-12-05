@@ -1,0 +1,20 @@
+2024-12-04 18:06:34.207 [info] 
+
+
+
+
+2024-12-04 18:06:34.220 [info] Extension host agent started.
+2024-12-04 18:06:38.384 [info] [172.16.0.1][1d74a67b][ManagementConnection] New connection established.
+2024-12-04 18:06:40.555 [warning] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: Address element “/dev/null” does not contain a colon (:)
+2024-12-04 18:06:41.708 [info] [172.16.0.1][a8d13a17][ExtensionHostConnection] New connection established.
+2024-12-04 18:06:41.755 [info] [172.16.0.1][a8d13a17][ExtensionHostConnection] <91> Launched Extension Host Process.
+2024-12-04 18:37:53.875 [info] [172.16.0.1][a8d13a17][ExtensionHostConnection] The client has reconnected.
+2024-12-04 18:37:55.030 [info] [172.16.0.1][1d74a67b][ManagementConnection] The client has reconnected.
+2024-12-04 19:01:57.611 [info] [172.16.0.1][1d74a67b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-04 19:01:57.666 [info] [172.16.0.1][a8d13a17][ExtensionHostConnection] <91> Extension Host Process exited with code: 0, signal: null.
+2024-12-04 19:03:22.344 [info] [172.16.0.1][6ad403c6][ManagementConnection] New connection established.
+2024-12-04 19:03:25.330 [info] [172.16.0.1][a60500e5][ExtensionHostConnection] New connection established.
+2024-12-04 19:03:25.337 [info] [172.16.0.1][a60500e5][ExtensionHostConnection] <1491> Launched Extension Host Process.
+2024-12-04 19:38:01.925 [info] [172.16.0.1][a60500e5][ExtensionHostConnection] The client has reconnected.
+2024-12-04 19:39:01.704 [info] [172.16.0.1][6ad403c6][ManagementConnection] The client has reconnected.
+2024-12-04 19:39:02.603 [info] [172.16.0.1][a60500e5][ExtensionHostConnection] The client has reconnected.
